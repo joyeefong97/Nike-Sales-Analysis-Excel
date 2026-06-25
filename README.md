@@ -1,11 +1,21 @@
 # Nike-Sales-Analysis-Excel
 
-## Dashboard
+## Dashboard 
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c73af3db-01cf-4311-bfff-85804f99ce99" />
   
-- Created Orders, Revenue, Profit, & Profit Margin KPI
-- Analysed Channel, Customer Segments, Discount & Customer Segment Contributions Towards Sales
-- Mapped Yearly Trends for Revenue & Profit
+-  KPI metrics:
+  - Total Orders
+  - Total Revenue
+  - Total Profit
+  - Average Profit Margin
+
+- Performed contribution analysis:
+  - Sales Channel
+  - Customer Segment
+  - Product Category
+  - Discount Strategy
+
+- Analyzed yearly revenue & profit contribution trends
 
 ## Data Cleaning Completed
 ## Validation Rules Created
