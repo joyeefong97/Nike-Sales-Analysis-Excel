@@ -9,12 +9,12 @@
   - Total Profit
   - Average Profit Margin
 
-### Performed Contribution Analysis for:
-  - Sales Channel
-  - Customer Segment
-  - Product Category
-  - Discount Strategy
-  - Yearly Trends for Revenue & Profit Contribution 
+### Analysis Performed:
+  - Sales Channel Contribution Analysis
+  - Customer Segment Contribution Analysis
+  - Product Category Contribution Analysis
+  - Discount Strategy Contribution Analysis
+  - Yearly Trend for Revenue & Profit Contribution 
   
 ## Data Cleaning Completed
 ## Validation Rules Created
