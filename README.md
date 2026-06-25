@@ -1,7 +1,8 @@
 # Nike-Sales-Analysis-Excel
 
 ## Dashboard 
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c73af3db-01cf-4311-bfff-85804f99ce99" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/affbb272-ad21-4592-9902-a15ea3262b7e" />
+
   
 ### KPI Metrics:
   - Total Orders
