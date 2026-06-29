@@ -1,7 +1,7 @@
 # Nike-Sales-Analysis-Excel
 
 ## Dashboard 
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/affbb272-ad21-4592-9902-a15ea3262b7e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/287c8da8-6306-49ce-bef1-311edd2437e5" />
 
   
 ### KPI Metrics:
@@ -38,17 +38,37 @@
 ## Exploratory Pivot Analysis & Data Analysis
 
 ### Exploratory Pivot Analysis:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27048485-fbde-4bc1-af81-1de47af58c9f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a49fde46-26b9-444b-abf5-4433032af22f" />
 
 - Explored relevant sales demographics
 
   ### Data Analysis:
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b457c1b-d53e-4501-b668-0f34f3917118" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84518920-3fe4-4855-99e9-53d503333633" />
 
 - Calculated profit margin to measure sales efficiency
 - Compared difference in revenue & profit contribution
 
   ## Business Insights
-  
+  ### 1. Poor Data Quality Issues
+  - Findings:
+  - Implications:
+  - Recommendations:
+ 
+  ### 2. Profit Efficiency Differ Throughout Product Lines & Customers
+  - Findings:
+  - Implications:
+  - Recommendations:
+
+ ### 3. Adequate Discounts Boost Profit Efficiency
+  - Findings:
+  - Implications:
+  - Recommendations:
+
+### 4. Retail Channel Performs Slightly Better in Sales
+  - Findings:
+  - Implications:
+  - Recommendations:
+ 
+ 
   
   
