@@ -50,16 +50,16 @@
 
   ## Business Insights
   ### 1. Poor Data Quality Issues
-  - Findings:
+  - Findings: 
   - Implications:
   - Recommendations:
  
-  ### 2. Profit Efficiency Differ Throughout Product Lines & Customers
+  ### 2. Sales Efficiency Differ Throughout Product Lines & Customers
   - Findings:
   - Implications:
   - Recommendations:
 
- ### 3. Adequate Discounts Boost Profit Efficiency
+ ### 3. Adequate Discounts Boost Sales Efficiency
   - Findings:
   - Implications:
   - Recommendations:
